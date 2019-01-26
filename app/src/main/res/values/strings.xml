@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Vistorias Checklist App</string>
+    <string name="file_provider_authority" translatable="false"> com.example.adeju.jessica.fileprovider</string>
+    <string name="action_about">Sobre</string>
+    <string name="action_profile">Perfil do usuário</string>
+    <string name="title_activity_vistoria_detalhe">Dados da vistoria</string>
+    <string-array name="tipos_vistoria">
+        <item>Vistoria Incial</item>
+        <item>Vistoria Anual</item>
+        <item>Vistoria Intermediária</item>
+        <item>Vistoria de Renovação</item>
+        <item>Vistorias Especiais - Prova de máquinas/navegação</item>
+        <item>Vistorias Especiais - Nacional de borda livre</item>
+        <item>Vistorias Especiais - Arqueação</item>
+        <item>Vistorias Especiais - Laudo Pericial</item>
+    </string-array>
+    <string name="title_activity_checklist">Checklist</string>
+</resources>
